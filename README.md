@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 Current Projects:
-- ♦️ **[terminal-poker](https://github.com/ashxudev/terminal-poker)** - play poker in your terminal while your coding agent is running
-- ⚡ **[ai300.io](https://ai300.io)** - AI Hacker News
+- ♦️ **[terminal-poker](https://github.com/ashxudev/terminal-poker)** – play poker in your terminal while your coding agent is running
+- 🖥️ **[docksnap](https://github.com/ashxudev/docksnap)** – automatically restores window positions when you dock/undock your Mac
+- ⚡ **[ai300.io](https://ai300.io)** – AI Hacker News
 - 🧬 **[rxiv.bio](https://rxiv.bio)** – LLM summaries of bioinformatics papers
 - 🎙️ **[playwright](https://playwrightbeta.vercel.app/)** – Scene reads using AI voices with British accents
 
