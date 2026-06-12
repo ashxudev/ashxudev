@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Current Project:
-- 🧬 **[multiplexer](https://github.com/ashxudev/multiplexer)** – open-source macOS app for running Boltz-2 biomolecular interaction predictions
-
+Cerebras Kernels & Tooling:
+- **[zed-csl](https://github.com/ashxudev/zed-csl)** – Zed IDE extension for syntax highlighting Cerebras Software Language (CSL)
 
 Past Projects:
+- 🧬 **[multiplexer](https://github.com/ashxudev/multiplexer)** – open-source macOS app for running Boltz-2 biomolecular interaction predictions
 - ♦️ **[terminal-poker](https://github.com/ashxudev/terminal-poker)** – play poker in your terminal while your coding agent is running
 - 🖥️ **[docksnap](https://github.com/ashxudev/docksnap)** – automatically restores window positions when you dock/undock your Mac
 - ⚡ **[ai300.io](https://ai300.io)** – AI Hacker News
